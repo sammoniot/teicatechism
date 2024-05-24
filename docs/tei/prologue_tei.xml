@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prologue of the Catechism of the Catholic Church</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>published June 25th,1992</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The prologue is the shortest and first section of the catechism. </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Prologue</p>
+         <milestone unit="page1"/>
+         <p><q>"FATHER,... this is eternal life, that they may know you, the only true God, and
+               Jesus Christ whom you have sent."</q>1 <q>"God our Saviour desires all men to be
+               saved and to come to the knowledge of the truth."</q> 2 <q>"There is no other name
+               under heaven given among men by which we must be saved"</q>3 - than the name of
+            JESUS.</p>
+         <p>1 <desc source="Bible">Jn 17 3</desc>
+         </p>
+         <p>2 <desc source="Bible">1 Tim 2:3-4</desc></p>
+         <p>3 <desc source="Bible">Acts 4:12</desc></p>
+         <milestone unit="page2"/>
+         <p style="title">The life of man- to know and love God</p>
+         <p> God, infinitely perfect and blessed in himself, in a plan of sheer goodness freely
+            created man to make him share in his own blessed life. For this reason, at every time
+            and in every place, God draws close to man. He calls man to seek him, to know him, to
+            love him with all his strength. He calls together all men, scattered and divided by sin,
+            into the unity of his family, the Church. To accomplish this, when the fullness of time
+            had come, God sent his Son as Redeemer and Saviour. In his Son and through him, he
+            invites men to become, in the Holy Spirit, his adopted children and thus heirs of his
+            blessed life.</p>
+         <p>So that this call should resound throughout the world, Christ sent forth the apostles he
+            had chosen, commissioning them to proclaim the gospel: "Go therefore and make disciples
+            of all nations, baptizing them in the name of the Father and of the Son and of the Holy
+            Spirit, teaching them to observe all that I have commanded you; and lo, I am with you
+            always, to the close of the age."4 Strengthened by this mission, the apostles "went
+            forth and preached everywhere, while the Lord worked with them and confirmed the message
+            by the signs that attended it."5</p>
+         <p>Those who with God's help have welcomed Christ's call and freely responded to it are
+            urged on by love of Christ to proclaim the Good News everywhere in the world. This
+            treasure, received from the apostles, has been faithfully guarded by their successors.
+            All Christ's faithful are called to hand it on from generation to generation, by
+            professing the faith, by living it in fraternal sharing, and by celebrating it in
+            liturgy and prayer.6</p>
+      </body>
+   </text>
+</TEI>
