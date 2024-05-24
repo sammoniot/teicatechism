@@ -1,1 +1,1 @@
-# teicatechism
+Hi! My name is Samantha Moniot and I am a senior digital media student at Pennsylvania State University at Behrend. My goal with this project is to share the catechism with others in a new way. I plan to use tei to encode the catechism of the catholic church to preseve this important part of our church history. 
